@@ -1,0 +1,13 @@
+{
+  "name": "yelp-search-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Yelp search results via snippet API using Scrape.do proxy",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0"
+  }
+}

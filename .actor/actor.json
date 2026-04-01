@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "yelp-search-scraper",
+  "title": "Yelp Search Scraper",
+  "description": "Scrapes Yelp search results including business details, ratings, reviews, and contact info.",
+  "version": "1.0",
+  "input": "./input_schema.json",
+  "dockerfile": "../Dockerfile"
+}

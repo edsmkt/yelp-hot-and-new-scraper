@@ -1,0 +1,21 @@
+{
+  "title": "Yelp Search Scraper Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "required": ["yelpUrl", "scrapeDoApiKey"],
+  "properties": {
+    "yelpUrl": {
+      "title": "Yelp Search URL",
+      "type": "string",
+      "description": "Full Yelp search URL (e.g. https://www.yelp.com/search?find_desc=plumber&find_loc=New+York)",
+      "editor": "textfield",
+      "prefill": "https://www.yelp.com/search?find_desc=plumber&find_loc=New+York"
+    },
+    "scrapeDoApiKey": {
+      "title": "Scrape.do API Key",
+      "type": "string",
+      "description": "Your Scrape.do API token",
+      "editor": "textfield"
+    }
+  }
+}
