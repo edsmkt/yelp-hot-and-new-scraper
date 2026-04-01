@@ -9,14 +9,7 @@ An Apify Actor that scrapes Yelp search results, including business details, rat
 
 ## Installation
 
-### Option 1: Deploy from GitHub
-
-1. Go to [Apify Console](https://console.apify.com) and create a new Actor
-2. In the **Source** tab, select **Git repository**
-3. Paste this repo URL: `https://github.com/edsmkt/yelp-hot-and-new-scraper.git`
-4. Click **Build** to build the Actor
-
-### Option 2: Deploy via ZIP URL
+### Option 1: Deploy via ZIP URL
 
 1. Go to [Apify Console](https://console.apify.com)
 2. Go to **My Actors**. In the top right of the My Actors page, click **Develop new**
@@ -29,6 +22,13 @@ An Apify Actor that scrapes Yelp search results, including business details, rat
    https://github.com/edsmkt/yelp-hot-and-new-scraper/archive/refs/heads/main.zip
    ```
 8. Click **Save** and then **Build**
+
+### Option 2: Deploy from GitHub
+
+1. Go to [Apify Console](https://console.apify.com) and create a new Actor
+2. In the **Source** tab, select **Git repository**
+3. Paste this repo URL: `https://github.com/edsmkt/yelp-hot-and-new-scraper.git`
+4. Click **Build** to build the Actor
 
 ### Option 3: Deploy via Apify CLI
 
