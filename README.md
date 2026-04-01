@@ -19,7 +19,7 @@ An Apify Actor that scrapes Yelp search results, including business details, rat
 ### Option 2: Deploy via ZIP URL
 
 1. Go to [Apify Console](https://console.apify.com)
-2. Click **My Actors** in the top right, then click **Develop new**
+2. Go to **My Actors**. In the top right of the My Actors page, click **Develop new**
 3. Click **Browse all templates** and select **Empty JavaScript Project**
 4. Name your Actor
 5. Go to the **Code** tab, under **Source**
